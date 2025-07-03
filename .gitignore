@@ -12,3 +12,8 @@ Thumbs.db
 # Ignore compiled Python files
 __pycache__/
 *.pyc
+backend/venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
