@@ -62,10 +62,7 @@ cd frontend
 npm install
 npm run dev
 
-Important Notes:
-- Do not include venv/ or node_modules/ folders when sharing
-- Only regenerate program_vectors.json if programs.json is changed
-- Always activate your virtual environment before running backend commands
+
 
 Tech Stack:
 Frontend – React, Tailwind CSS
